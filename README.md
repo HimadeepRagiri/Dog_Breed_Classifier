@@ -125,7 +125,7 @@ Follow these steps to run the project on your local machine:
 1. **Clone the Repository**:
    - Clone the project repository to your local machine:
      ```bash
-     git clone <repository_url>
+     git clone https://github.com/HimadeepRagiri/Dog_Breed_Classifier.git
      ```
 
 2. **Install Dependencies**:
